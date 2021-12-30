@@ -17,7 +17,8 @@
         "name": "native",
         "desc": "default copha notification",
         "type": "notification",
-        "repository": "https://github.com/copha-project/native-notification"
+        "repository": "https://github.com/copha-project/native-notification",
+        "packages": []
     },
     {
         "name": "file",

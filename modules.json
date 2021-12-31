@@ -18,7 +18,14 @@
         "desc": "puppeteer module",
         "type": "notification",
         "repository": "https://github.com",
-        "packages": []
+        "packages": [
+            {
+                "version": "0.0.1",
+                "link": "https://baidu.com",
+                "md5": "sasdfsf",
+                "sha256": "asdfasdf"
+            }
+        ]
     },
     {
         "name": "file",

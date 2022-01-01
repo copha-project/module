@@ -34,7 +34,8 @@
         "name": "file",
         "desc": "default copha storage",
         "type": "storage",
-        "repository": "https://github.com/copha-project/file-storage"
+        "repository": "https://github.com/copha-project/file-storage",
+        "id": "7db4764e-815f-462e-8b51-8c06e6f6b0e9"
     },
     {
         "name": "selenium",

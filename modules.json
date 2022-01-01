@@ -11,7 +11,8 @@
         "desc": "default copha task",
         "type": "task",
         "repository": "https://github.com/copha-project/copha-empty-task",
-        "packages": []
+        "packages": [],
+        "id": "bf45c0c7-8d29-442b-8f91-0103562392f7"
     },
     {
         "name": "native",

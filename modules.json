@@ -41,7 +41,8 @@
         "name": "selenium",
         "desc": "A driver of Copha which use selenium",
         "type": "driver",
-        "repository": "https://github.com/copha-project/selenium-driver"
+        "repository": "https://github.com/copha-project/selenium-driver",
+        "id": "dfe06526-d623-4301-bb51-765776fb8d49"
     },
     {
         "name": "puppeteer",

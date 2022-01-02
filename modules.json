@@ -43,13 +43,5 @@
         "type": "driver",
         "repository": "https://github.com/copha-project/selenium-driver",
         "id": "dfe06526-d623-4301-bb51-765776fb8d49"
-    },
-    {
-        "name": "puppeteer",
-        "desc": "puppeteer module",
-        "type": "driver",
-        "repository": "https://github.com",
-        "id": "b1c1428b-e25b-4dfa-b312-ae039574e64d",
-        "packages": []
     }
 ]

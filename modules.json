@@ -17,7 +17,7 @@
     },
     {
         "name": "native",
-        "desc": "puppeteer module",
+        "desc": "local notification module",
         "type": "notification",
         "repository": "https://github.com",
         "packages": [

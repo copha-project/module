@@ -26,6 +26,11 @@
                 "link": "https://baidu.com",
                 "md5": "sasdfsf",
                 "sha256": "asdfasdf"
+            },
+            {
+                "sha1": "5f554e327518674b1d9744e8ee1b5aaadc09fecc",
+                "md5": "05e694de6f9836df60784f2e741bcaa8",
+                "version": "0.0.6"
             }
         ],
         "id": "bf45c0c7-8d29-442b-8f91-0103562392f7"

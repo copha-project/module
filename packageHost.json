@@ -1,0 +1,12 @@
+[
+  {
+    "id": "23c7b207-af21-4213-8620-94ab3e0332d5",
+    "protocol": "https",
+    "host":"150.158.31.232",
+    "port": 80,
+    "api": {
+      "upload":"/upload",
+      "package":"/package/{id}/{ver}"
+    }
+  }
+]

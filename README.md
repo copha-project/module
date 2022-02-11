@@ -5,6 +5,6 @@
 - modules.json
 
   module list data
-- storage.json
+- packageHosts.json
 
-  module package download service
+  package hosts list data

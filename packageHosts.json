@@ -1,12 +1,22 @@
 [
-  {
-    "id": "23c7b207-af21-4213-8620-94ab3e0332d5",
-    "protocol": "https",
-    "host":"150.158.31.232",
-    "port": 80,
-    "api": {
-      "upload":"/upload",
-      "package":"/package/{id}/{ver}"
+    {
+        "id": "23c7b207-af21-4213-8620-94ab3e0332d5",
+        "protocol": "https",
+        "host": "150.158.31.232",
+        "port": 80,
+        "api": {
+            "upload": "/upload",
+            "package": "/package/{id}/{ver}"
+        }
+    },
+    {
+        "protocol": "http",
+        "host": "2.2.2.12",
+        "port": 80,
+        "api": {
+            "upload": "/sdf",
+            "package": "/sdf"
+        },
+        "id": "c5612d66-8508-43e1-b4cb-c1962e24e0da"
     }
-  }
 ]

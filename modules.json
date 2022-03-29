@@ -14,6 +14,7 @@
         "name": "default-task",
         "desc": "default copha task",
         "repository": "https://github.com/copha-project/copha-default-task",
+        "packageHost": "91e14cd1-4f74-4d5f-946d-5cd3c3591903",
         "packages": []
     },
     {

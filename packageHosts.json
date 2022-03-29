@@ -1,5 +1,6 @@
 [
     {
+        "id": "91e14cd1-4f74-4d5f-946d-5cd3c3591903",
         "protocol": "http",
         "host": "150.158.31.232",
         "port": 80,
@@ -10,7 +11,6 @@
         "api": {
             "upload": "/upload/{id}",
             "package": "/package/{id}/{ver}"
-        },
-        "id": "91e14cd1-4f74-4d5f-946d-5cd3c3591903"
+        }
     }
 ]

@@ -15,7 +15,13 @@
         "desc": "default copha task",
         "repository": "https://github.com/copha-project/copha-default-task",
         "packageHost": "91e14cd1-4f74-4d5f-946d-5cd3c3591903",
-        "packages": []
+        "packages": [
+            {
+                "sha1": "254b0ba8a8a7038f1e2324fc40820011994a753f",
+                "md5": "592ca39dfea74298540446c5be287c92",
+                "version": "0.0.1"
+            }
+        ]
     },
     {
         "name": "native",

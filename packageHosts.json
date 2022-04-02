@@ -10,7 +10,7 @@
         },
         "api": {
             "upload": "/upload",
-            "package": "/package/{id}/{ver}"
+            "package": "/packages/{id}/{ver}"
         }
     }
 ]
